@@ -13,7 +13,7 @@ print("Nombre:", nombre)
 
 #Tipo boleana
 es_estudiante = False
-print("Es estudiante?", es_estudiante)
+print("Es estudiante?:", es_estudiante)
 
 # None, ausencia de valor
 direccion = None
