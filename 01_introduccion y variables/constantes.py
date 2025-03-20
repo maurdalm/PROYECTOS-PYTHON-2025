@@ -14,3 +14,4 @@ print('No cambiar el valor de una constante:',NOMBRE_BASE_DATOS)
 
 # usar una constante del lenguaje Python, aunque en este caso no está en mayusculas
 print('Valor de math.pi', math.pi)
+
