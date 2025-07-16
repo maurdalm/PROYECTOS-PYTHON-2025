@@ -40,5 +40,5 @@ print(f'Valor booleano de cadena NO vacía: {booleano}') # True
 variable = None
 booleano = bool(variable)
 print(f'Valor booleano de None: {booleano}') # False
-print(f'Valor booleano de None: {booleano}') # False
+
 
