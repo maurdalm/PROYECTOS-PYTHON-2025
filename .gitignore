@@ -1,0 +1,37 @@
+# Entornos virtuales
+venv/
+env/
+ENV/
+.venv/
+
+# Archivos compilados
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Archivos de distribución
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Archivos de logs
+*.log
+
+# Archivos de configuración del entorno
+.env
+
+# Archivos de IDE
+.vscode/
+.idea/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos ejecutables
+*.exe
+PROGRAMAS/

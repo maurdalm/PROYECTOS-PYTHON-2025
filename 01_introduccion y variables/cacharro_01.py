@@ -1,4 +1,4 @@
 saludo ="hola"
-nombre ="carli"
+nombre ="Mauricio"
 print(saludo)
 print(nombre)
